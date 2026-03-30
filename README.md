@@ -16,6 +16,14 @@ Pour cela vous pouvez attaquer les ennemis avec les touches suivantes :
 2. P : Bombe, explose au bout de quelques secondes (touche aussi le joueur)
 3. B : Arc, lance une flèche devant le personnage, avance jusqu'à toucher un mur ou un ennemi
 
+## Images du jeu
+
+### Version Graphique
+![](readme/jeuSdl.png)
+
+### Version Console
+![](readme/jeuTxt.png)
+
 ## Structure du projet
 
 - `src/` : Contient les fichiers source du projet
